@@ -1,0 +1,22 @@
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.csproj.GenerateResource.Cache
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\bin\Debug\notepaid.exe
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\bin\Debug\notepaid.pdb
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.exe
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.pdb
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.exe
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.pdb
+F:\Visual Studio 2010\Projects\notepaid\notepaid\bin\Debug\notepaid.exe
+F:\Visual Studio 2010\Projects\notepaid\notepaid\bin\Debug\notepaid.pdb
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\notepaid\notepaid\obj\x86\Debug\notepaid.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\NotePad\notepaid\obj\x86\Debug\notepaid.exe
+F:\Visual Studio 2010\Projects\NotePad\notepaid\obj\x86\Debug\notepaid.pdb

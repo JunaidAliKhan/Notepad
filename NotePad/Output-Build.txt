@@ -1,0 +1,8 @@
+﻿------ Build started: Project: notepaid, Configuration: Debug x86 ------
+  notepaid -> F:\Visual Studio 2010\Projects\notepaid\notepaid\bin\Debug\notepaid.exe
+------ Starting pre-build validation for project 'Setup1' ------ 
+------ Pre-build validation for project 'Setup1' completed ------
+------ Build started: Project: Setup1, Configuration: Debug ------
+Building file 'F:\Visual Studio 2010\Projects\notepaid\Setup1\Debug\Setup1.msi'...
+Packaging file 'notepaid.exe'...
+========== Build: 2 succeeded or up-to-date, 0 failed, 0 skipped ==========
